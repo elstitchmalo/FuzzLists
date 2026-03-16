@@ -1,3 +1,10 @@
+/etc/passwd
+/etc/shadow
+/proc/self/environ
+\windows\win.ini
+\C:\Windows\win.ini
+\C:\Windows\System32\drivers\etc\hosts
+
 /../../../../../../../../../../etc/passwd
 ../../../../../../../../../../etc/passwd
 /../../../../../../../../../../etc/shadow
